@@ -1,0 +1,28 @@
+name: Mileno
+favicon: null
+layout_spectrum: 0.07245971146039665
+typography_spectrum: 0.9289079098962247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7010376458056271
+  lightness: 0.26325941435061395
+  saturation: 0.4645735912490636
+  rhythmicContrast: 0.14442170853726566
+purpose: []
