@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mileno]]></title>
+        <description><![CDATA[Mileno]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Dec 2015 22:50:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mileno Home]]></title>
+            <description><![CDATA[<article><h1>Mileno Home</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/496d0be9-42e0-41d7-8525-27338c32a2b8.jpg"></article>]]></description>
+            <link>undefinedmileno-home/index.html</link>
+            <guid isPermaLink="false">538f2093-18d3-4145-ab74-fe379520bec0</guid>
+            <pubDate>Thu, 24 Dec 2015 22:50:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
